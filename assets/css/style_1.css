@@ -2998,12 +2998,13 @@ figure.woocommerce-product-gallery__wrapper {
     text-align: left;
     color: #666;
     padding-bottom: 10px;
-    float: left
+    margin-right: 20px;
+    float: left;
 }
 
 #footer-info a {
     font-weight: 700;
-    color: #666
+    color: #666;
 }
 
 #footer-info a:hover {
